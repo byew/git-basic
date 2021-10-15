@@ -1,3 +1,11 @@
+
+
+
+
+# 增加一些修改内容
+
+add some lines to the end and push them to GitHub --GuYongjie
+
 # Git Basics
 
 This practice will help you get comfortable with basic git operations: making changes and publishing them.
