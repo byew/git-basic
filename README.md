@@ -4,7 +4,7 @@
 
 # 增加一些修改内容
 
-add some lines to the end and push them to GitHub --GuYongjie
+add some lines to the end and push them to GitHub --Yang Bai
 
 # Git Basics
 
